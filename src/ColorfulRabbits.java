@@ -3,7 +3,7 @@ import java.util.*;
 public class ColorfulRabbits {
     public int getMinimum(int[] replies) {
         int res;
-        return res;
+        return res; fdfs
     }
 
 // BEGIN CUT HERE
